@@ -1,2 +1,2 @@
 # Google-Colab-cheatsheet-
-somel learning from
+some learning from my work on colab.research.google.com
